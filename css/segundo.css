@@ -1,0 +1,23 @@
+/* TODO ES DEL CARROUSEL PENDIENTES/*/
+
+.men{
+    width: 10px;
+}
+.img_icon_men{
+width: 100%;
+background-color: #C0C0C0;
+}
+.el_centro{
+    width: 100%;  
+    align-content: center;
+    margin-top: 1%;
+    position: absolute;
+    margin-bottom: auto;
+}
+
+.contenido_img{
+    width: 100%;
+    height: 300px;   
+    display: block;
+    
+}
